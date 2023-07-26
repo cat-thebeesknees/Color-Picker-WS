@@ -1,5 +1,5 @@
 import  { useState, useEffect } from "react";
-import ContactRow from "./ContactRow";
+import ContactRow from "./ContactRow"
 import PropTypes from "prop-types";
 import dummyContacts from "./dummyContacts";
 
